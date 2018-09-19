@@ -1,4 +1,4 @@
-# Image_Captioning 
+# Show and Tell: A Neural Image Caption Generator
 
 This is an implementation of the paper "Show and Tell: A Neural Image Caption Generator", by Oriol Vinyals, Alexander Toshev, Samy Bengio, Dumitru Erhan.
 
